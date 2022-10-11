@@ -1,4 +1,4 @@
-## Hello! EU sou Ubiratan Motta
+## Hello! Eu sou Ubiratan Motta
 
 <div align="center">
   <a href="https://github.com/ubiratan-motta">
