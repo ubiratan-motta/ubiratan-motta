@@ -1,6 +1,12 @@
 ## Hello! Eu sou Ubiratan Motta
 
 <div align="center">
+<img height="400em" src="https://user-images.githubusercontent.com/103541346/207719344-725d2008-eeab-4af8-8d2a-34c6159817b5.png">
+
+</div>
+
+
+<div align="center">
   <a href="https://github.com/ubiratan-motta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ubiratan-motta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratan-motta&layout=compact&langs_count=7&theme=radical"/>
