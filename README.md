@@ -1,4 +1,4 @@
-## Hello! I am Ubiratan Motta
+## Hello! I'm Ubiratan Motta
 
 <div align="center">
 <img height="400em" src="https://user-images.githubusercontent.com/103541346/207719344-725d2008-eeab-4af8-8d2a-34c6159817b5.png">
@@ -6,14 +6,11 @@
 
 ### About Me
 
-I am a Data Engineer with extensive experience in various ETL (Extract, Transform, Load) tools and technologies. My passion lies in crafting effective solutions for data processing and analysis.
+Turning data chaos into pure magic, one pipeline at a time! 🚀 I'm a **Data Engineer**, **Software Developer**, and **Technical Lead** with a passion for building bridges for bytes and making the cloud shine ☁️. I specialize in crafting robust data pipelines, developing scalable software solutions, and leading data-driven innovation.
 
-My journey in the data world has equipped me with proficiency in multiple programming languages and cloud platforms, allowing me to design robust data pipelines and deliver meaningful insights from raw data. With a strong foundation in Python, PySpark, and expertise in cloud services like GCP, AWS and Azure, I am adept at handling complex data tasks.
+My journey in tech has armed me with expertise in **Python**, **PySpark**, and cloud platforms like **GCP**, **AWS**, and **Azure**. From data warehousing to real-time processing, I love transforming raw data into actionable insights that empower businesses. Whether it's coding, architecting cloud solutions, or leading teams, I'm all about delivering value with a dash of creativity! 🎉
 
-Throughout my career, I've had the privilege of working on diverse projects, from data warehousing to real-time data processing. I take pride in my ability to turn data into actionable information, enabling data-driven decision-making for businesses.
-
-Feel free to connect with me if you share a passion for data, technology, or just want to exchange ideas. I'm always open to collaborations and discussions on data-related topics.
-
+Got a passion for data, code, or cloud tech? Let's connect and geek out over innovative ideas and projects!
 
 ### GitHub Statistics
 
@@ -38,19 +35,17 @@ Feel free to connect with me if you share a passion for data, technology, or jus
   <img align="center" alt="Ubiratan-GitLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Ubiratan-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Ubiratan-Apache" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />        
-  <img align="center" alt="Ubiratan-Terraforme" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" alt="Ubiratan-Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Ubiratan-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </div>
 
 ### Contact
 
 <div> 
- <a href = "mailto:mottaubiratan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:mottaubiratan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ubiratan-motta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ### GitHub Activity
 
 ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
-
-
